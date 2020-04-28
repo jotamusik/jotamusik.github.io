@@ -1,0 +1,34 @@
+baseURL: "http://example.org/"
+languageCode: "es-es"
+title: "Blog"
+theme: "hyde-hyde"
+
+params:
+  author: "Jorge Aguiar"
+  authorimage: "/img/profile.jpg"
+  description: "Jorge Aguiar - Un desarrollador más"
+  themeColor: "theme-base-11"
+  dateformat: "Jan 2, 2006"
+
+  copyright: "Copyright"
+  since: 2020
+  license: "CC BY-SA 4.0"
+  licenseURL: "https://creativecommons.org/licenses/by-sa/4.0"
+
+  social:
+    github: "jotamusik"
+    linkedin: "jorge-aguiar-martin"
+    twitter: "jotamusik"
+
+  highlightjs: true
+  highlightjsstyle: "atom-one-dark"
+  relatedPosts: true
+
+Menus:
+  main:
+    - Name: "Inicio"
+      URL: "/"
+    - Name: "Acerca de"
+      URL: "/about"
+    - Name: "Posts"
+      URL: "/posts"

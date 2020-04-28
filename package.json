@@ -1,0 +1,14 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "Personal Blog",
+  "main": "index.js",
+  "scripts": {
+    "serve": "hugo serve"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "Jorge Aguiar",
+  "license": "ISC"
+}
