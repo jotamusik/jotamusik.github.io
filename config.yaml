@@ -26,9 +26,11 @@ params:
 
 Menus:
   main:
-    - Name: "Inicio"
-      URL: "/"
     - Name: "Acerca de"
       URL: "/about"
     - Name: "Posts"
       URL: "/posts"
+    - Name: "Categorías"
+      URL: "/categories"
+    - Name: "Tags"
+      URL: "/tags"
