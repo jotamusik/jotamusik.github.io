@@ -1,5 +1,5 @@
-baseURL: "https://jotamusik.github.io/"
-languageCode: "es-es"
+baseURL: "https://www.jotamusik.com/"
+languageCode: "es"
 title: "Blog"
 theme: "hyde-hyde"
 
@@ -26,9 +26,11 @@ params:
 
 Menus:
   main:
-    - Name: "Inicio"
-      URL: "/"
     - Name: "Acerca de"
       URL: "/about"
     - Name: "Posts"
       URL: "/posts"
+    - Name: "Categorías"
+      URL: "/categories"
+    - Name: "Tags"
+      URL: "/tags"
