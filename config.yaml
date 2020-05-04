@@ -1,5 +1,5 @@
-baseURL: "https://jotamusik.github.io/"
-languageCode: "es-es"
+baseURL: "https://www.jotamusik.com/"
+languageCode: "es"
 title: "Blog"
 theme: "hyde-hyde"
 
