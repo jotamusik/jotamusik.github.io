@@ -6,7 +6,7 @@ theme: "hyde-hyde"
 params:
   author: "Jorge Aguiar"
   authorimage: "/img/profile.png"
-  description: "Jorge Aguiar - Un desarrollador más"
+  description: "Jorge Aguiar - Desarrollador de Software"
   themeColor: "theme-base-11"
   dateformat: "Jan 2, 2006"
   copyright: "Copyright"
