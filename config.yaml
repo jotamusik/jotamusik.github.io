@@ -1,4 +1,4 @@
-baseURL: "https://www.jotamusik.com/"
+baseURL: "https://jotamusik.com/"
 languageCode: "es"
 title: "Blog"
 theme: "hyde-hyde"
