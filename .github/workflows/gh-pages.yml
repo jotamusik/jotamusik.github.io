@@ -28,6 +28,7 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
+          email: jotamusik@gmail.com
           branch: master
           build_dir: public
           cname: jotamusik.com
