@@ -9,7 +9,7 @@ draft: false
 This time I will share with you a personal experience that have supposed a great opportunity for me and that will help me
 to improve and at the same time, make a little impact on other people at the same time.
 
-So let's start from the beginning, weeks ago, me and my project mates were working on our rabbitmq messaging api definition,
+So let's start from the beginning, weeks ago, me and [my project mates](https://leanmind.es/) were working on our rabbitmq messaging api definition,
 and we were using [AsyncAPI](https://www.asyncapi.com/) to do it. For those who don't know, [AsyncAPI](https://www.asyncapi.com/) is a set of tools supporting a specification standard to
 define asynchronous APIs. While we were working on our specification, we needed to validate the things that we were typing on our 2000 lines
 definition file were correct, so our workflow was:
